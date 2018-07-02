@@ -1,0 +1,49 @@
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csprojResolveAssemblyReference.cache
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csproj.GenerateResource.Cache
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csprojResolveAssemblyReference.cache
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\amr tarel\Desktop\analysis task\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csproj.GenerateResource.Cache
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csprojResolveAssemblyReference.cache
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\db_project.csproj.GenerateResource.Cache
+C:\Users\amr tarel\Desktop\db project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
